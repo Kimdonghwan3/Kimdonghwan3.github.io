@@ -104,13 +104,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "육지거북"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am an **strange** person."
+  location         : "한국"
   email            :
   links:
-    - label: "Email"
+    - label: "riorisa135@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
